@@ -1,7 +1,7 @@
 # Sales Performance Dashboard (Power BI)
 ## Project Overview
 
-This dashboard was created as a practice project while studying Power BI through the 365 Data Science platform.
+This dashboard was created as a practice project while studying Power BI through the  **365 Data Science platform**.
 The goal of the project is to analyze internet sales performance, customer distribution, and product trends using a structured star-schema dataset and interactive visualizations.
 
 The dashboard provides a high-level business overview and helps answer questions related to:
@@ -83,6 +83,12 @@ Customer analysis shows an almost even split between male and female product pur
 
 Overall, the dashboard converts sales data into actionable insights by showing who the customers are, where sales originate, and how performance varies across regions, supporting data-driven business decisions.
 
+## Dashboard Design & Interactivity
+
+Color-coded filters positioned at the top of the dashboard allow users to dynamically filter the data by key dimensions such as product category, customer demographics, and sales territory. These filters update all visuals in real time, enabling quick comparisons and deeper exploration of specific segments.
+
+Consistent color usage across visuals improves readability and helps users easily track changes caused by filter selections, ensuring a smooth and user-friendly analytical experience.
+
 ## Tools & Technologies
 
 * Power BI
@@ -90,5 +96,3 @@ Overall, the dashboard converts sales data into actionable insights by showing w
 * DAX
 
 * Data Modeling (Star Schema)
-
-* 365 Data Science Learning Platform
